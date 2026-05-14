@@ -1,0 +1,24 @@
+body {
+  padding: 50px;
+  font-family: Arial, sans-serif;
+  background-color: #fff7e6;
+  color: #222;
+}
+
+h1 {
+  color: #d35400;
+}
+
+.snack-list {
+  list-style: none;
+  padding: 0;
+  max-width: 400px;
+}
+
+.snack-list li {
+  background: white;
+  margin: 12px 0;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #f0c27b;
+}
